@@ -1,4 +1,4 @@
-## Collin-FrontEnd-Developer-
+## Collin-FrontEnd-Developer-💻🖥
 Hello there👋,
 I'm Collin a Software engineer and a technology Teacher by profession. I have done bachelor of Education Science in Physics and computer but later switched to software engineering. I have graduated a 24 weeks FrontEnd course at [Jagaad Academy](https://academy.jagaad.com/). For 6 months I have had to earn and work on various technologies including:
 
