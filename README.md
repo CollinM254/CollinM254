@@ -15,3 +15,7 @@ In this GitHub profile you will find some of my projects that I have accomplishe
 * 🔗 You can reach me via [LinkedIn](www.linkedin.com/in/collin-mwenda-software-engineer) or [Email](cmwenda20@gmail.com) or [Twitter](https://twitter.com/mwenda_collin)
 * 📍 Current Location Nairobi, Kenya
 * 🌐 Available for fully Remote | Relocation | Onsite
+
+### My Github Stats
+
+[![Collin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CollinM254&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
