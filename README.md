@@ -8,6 +8,9 @@ I'm Collin, a Software engineer and a technology Teacher by profession. I have d
 * TypeScript
 * React
 * Next.Js
+* Redux, Redux Thunk
+* Next.js
+* Docker
 
 In this GitHub profile you will find some of my projects that I have accomplished using the above technologies.
 
