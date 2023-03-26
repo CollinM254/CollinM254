@@ -1,5 +1,7 @@
-###  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Collin+Frontend+Developer+👋+🖥💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=6000&color=18F70E&background=57565500&width=435&lines=Collin+-+Frontend+Developer+👋+🖥💻)](https://git.io/typing-svg)
+<!-- ###  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Collin+-+Frontend+Developer+👋+🖥💻)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Collin+text+texte+texf;Second+line+of+text)](https://git.io/typing-svg) -->
+
 Hello there👋,
 I'm Collin, a Software engineer and a technology Teacher by profession. I have done bachelor of Education Science in Physics and computer but later decided specialize in software engineering. I have graduated a 24 weeks FrontEnd course at [Jagaad Academy](https://academy.jagaad.com/). For 6 months I have had to learn and work on various technologies including:
 
