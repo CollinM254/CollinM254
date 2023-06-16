@@ -24,7 +24,7 @@ Other technological skills I have include:
 In this GitHub profile you will find some of my projects that I have accomplished using the above technologies.
 
 * 🖥️ Currently looking for Junior or Experienced Frontend Developer Position
-* 🔗 You can reach me via [LinkedIn](www.linkedin.com/in/collin-mwenda-software-engineer) or [Email](cmwenda20@gmail.com) or [Twitter](https://twitter.com/mwenda_collin)
+* 🔗 You can reach me via [LinkedIn](www.linkedin.com/in/collin-mwenda-software-engineer) or [Email](cmwenda20@gmail.com) or [Twitter](https://twitter.com/mwenda_collin) or [Personal Portfolio Website](https://collinm254.github.io/Portfolio1/)
 * 📍 Current Location Nairobi, Kenya
 * 🌐 Available for fully Remote | Relocation | Onsite
 
