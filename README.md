@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=6000&color=18F70E&background=57565500&width=635&lines=Collin+-+Frontend+and+Backend+Developer+👋+🖥💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=6000&color=18F70E&background=57565500&width=635&lines=Collin+-+Frontend+and+Backend+Developer+&+Mobile+App+Developer+👋+🖥💻)](https://git.io/typing-svg)
 <!-- ###  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Collin+-+Frontend+Developer+Mobile+App+Developer+👋+🖥💻)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Collin+text+texte+texf;Second+line+of+text)](https://git.io/typing-svg) -->
 
