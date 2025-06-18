@@ -8,7 +8,7 @@ I'm Collin, a passionate Software Engineer with over 3 years of hands-on experie
 During my career, I've honed my skills working with various technologies and frameworks. Here's a snapshot of what I've mastered:
 
 * *Frontend:* HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Redux Thunk
-* *Backend:* Python, PHP, Django, Laravel
+* *Backend:* NodeJs
 * *DevOps:* Docker
 
 
